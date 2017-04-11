@@ -1,0 +1,17 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Score Keeper</string>
+
+    <string name="goal">goal</string>
+    <string name="offside">offside</string>
+    <string name="cycle_polo">Cycle polo</string>
+    <string name="no_team_name">Fill out team names!</string>
+
+    <string name="team_a_name">Team 1 name</string>
+    <string name="team_b_name">Team 2 name</string>
+    <string name="team_a_offside_data">offside: <xliff:g id="name">%d</xliff:g></string>
+    <string name="team_b_offside_data">offside: <xliff:g id="name">%d</xliff:g></string>
+
+    <string name="button_go_match"><![CDATA[>>]]></string>
+    <string name="button_go_main"><![CDATA[<<]]></string>
+    <string name="button_reset">Reset</string>
+</resources>

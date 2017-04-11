@@ -1,0 +1,13 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Score Keeper</string>
+
+    <string name="goal">gól</string>
+    <string name="offside">les</string>
+    <string name="cycle_polo">Bringapóló</string>
+    <string name="no_team_name">Töltsd ki a csapat neveket!</string>
+
+    <string name="team_a_name">Csapat 1 név (max 10)</string>
+    <string name="team_b_name">Csapat 2 név (max 10)</string>
+    <string name="team_a_offside_data">les: <xliff:g id="name">%d</xliff:g></string>
+    <string name="team_b_offside_data">les: <xliff:g id="name">%d</xliff:g></string>
+</resources>
